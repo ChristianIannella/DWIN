@@ -3,7 +3,7 @@ Esempi per display DWIN
 (gli esempi sono per schermi con risoluzione 480x272)
 
 
-![This is an image](https://github.com/ChristianIannella/DWIN/blob/main/DMG48270C043.jpg)
+![This is an image](https://github.com/ChristianIannella/DWIN/blob/main/Doc/DMG48270C043.jpg)
 
 
 Qui troverai alcuni esempi per utilizzare display [DWIN](https://www.dwin-global.com/) con Arduino.
@@ -27,6 +27,8 @@ Ora passiamo alla scheda Arduino. Il codice è scritto per un Arduino Uno ma pot
 Carica il file `arduino_switch_example` sulla tua scheda  e collegala al display.
 
 
-![image](https://github.com/ChristianIannella/DWIN/blob/main/collegamenti.png)
+![image](https://github.com/ChristianIannella/DWIN/blob/main/Doc/collegamenti.png)
 
 Se tutto è andato a buon fine dovresti essere in grado di vedere un semplice menu e accendere o spegnere il led sul pin 13.
+
+Per maggiori dettagli rimando alla [docomentazione ufficiale]
