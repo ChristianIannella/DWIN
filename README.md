@@ -3,6 +3,9 @@ Esempi per display DWIN
 (gli esempi sono per schermi con risoluzione 480x272)
 
 
+![This is an image](https://github.com/ChristianIannella/DWIN/)
+
+
 Qui troverai alcuni esempi per utilizzare display [DWIN](https://www.dwin-global.com/) con Arduino.
 
 Questi display sono molto economici dispongono di un touch screen capacitivo e di un buzzer per il feedback.
