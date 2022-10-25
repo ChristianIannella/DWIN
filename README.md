@@ -17,6 +17,13 @@ Dal sito ufficiale scarica il software di sviluppo [DGUS_V7642](https://www.dwin
 Potresti aver bisogno di installare questi driver [XR21X141X Driver](https://www.dwin-global.com/tool-page/)
 
 
-Se vuoi utilizzare la microSD per caricare i dati nel display aassicurati che sia vuota, copia al suo interno la cartella DWIN_SET, inserisci la memoria nel display, accendilo, aspetta che completi le operazioni indicate sullo schermo, poi spegi e rimuovila. Alla prossima accensione il display mostrerà quello che hai caricato.
+Se vuoi utilizzare la microSD per caricare i dati nel display aassicurati che sia vuota, copia al suo interno la cartella `DWIN_SET`, inserisci la memoria nel display, accendilo, aspetta che completi le operazioni indicate sullo schermo, poi spegi e rimuovila. Alla prossima accensione il display mostrerà quello che hai caricato.
 
-Se carichi i dati tramite adattatore apri il programma DGUS, importa o crea il tuo progetto, premi sull icona DGUS, si aprirà il Dwin PCKit clicca 'Select Directory'
+Se carichi i dati tramite adattatore apri il programma DGUS, importa o crea il tuo progetto, premi sull icona DGUS, si aprirà il Dwin PCKit clicca `Select Directory`
+e seleziona la cartella `DWIN_SET` dopo di che fai clic su `Start Downloading`
+
+Ora passiamo alla scheda Arduino. Il codice è scritto per un Arduino Uno ma potenzialmente funziona per qualsiasi scheda purche lavori a 5v, nel caso vogliate usare schede che lavorano a 3.3v abbaite cura di utilizzare un adattatore di livello.
+
+Carica il file `arduino_switch_example` sulla tua scheda  e collegala al display.
+
+Ecco lo schema dei collegamenti:
