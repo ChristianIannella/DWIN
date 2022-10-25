@@ -3,7 +3,7 @@ Esempi per display DWIN
 (gli esempi sono per schermi con risoluzione 480x272)
 
 
-![This is an image](https://github.com/ChristianIannella/DWIN/)
+![This is an image](https://github.com/ChristianIannella/DWIN/blob/main/DMG48270C043.jpg)
 
 
 Qui troverai alcuni esempi per utilizzare display [DWIN](https://www.dwin-global.com/) con Arduino.
