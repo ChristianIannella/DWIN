@@ -27,3 +27,5 @@ Ora passiamo alla scheda Arduino. Il codice è scritto per un Arduino Uno ma pot
 Carica il file `arduino_switch_example` sulla tua scheda  e collegala al display.
 
 Ecco lo schema dei collegamenti:
+
+![image](https://github.com/ChristianIannella/DWIN/blob/main/collegamenti.png)
