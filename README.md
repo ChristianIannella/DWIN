@@ -31,4 +31,4 @@ Carica il file `arduino_switch_example` sulla tua scheda  e collegala al display
 
 Se tutto è andato a buon fine dovresti essere in grado di vedere un semplice menu e accendere o spegnere il led sul pin 13.
 
-Per maggiori dettagli rimando alla [docomentazione ufficiale]
+Per maggiori dettagli rimando alla [docomentazione ufficiale](https://github.com/ChristianIannella/DWIN/blob/main/Doc/DWIN%20DGUS%20DEV%20GUIDE_V43_2015.pdf)
