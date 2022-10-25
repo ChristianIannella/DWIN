@@ -10,7 +10,13 @@ Qui troverai alcuni esempi per utilizzare display [DWIN](https://www.dwin-global
 
 Questi display sono molto economici dispongono di un touch screen capacitivo e di un buzzer per il feedback.
 
-Per cominciare avrai bisogno di un [dispaly](https://www.dwin-global.com/4-3-inch-intelligent-display-dmg48270c043_04wcommercial-grade-product/) come questo, per caricare i dati sul display 
-avrai bisogno di una microSD o del adattatore USB in dotazione.
+Per cominciare avrai bisogno di un dispaly come [questo](https://www.dwin-global.com/4-3-inch-intelligent-display-dmg48270c043_04wcommercial-grade-product/), per caricare i dati sul display avrai bisogno di una microSD o del adattatore USB in dotazione.
 
 
+Dal sito ufficiale scarica il software di sviluppo [DGUS_V7642](https://www.dwin-global.com/tool-page/) poi scarica i file da questo repository.
+Potresti aver bisogno di installare questi driver [XR21X141X Driver](https://www.dwin-global.com/tool-page/)
+
+
+Se vuoi utilizzare la microSD per caricare i dati nel display aassicurati che sia vuota, copia al suo interno la cartella DWIN_SET, inserisci la memoria nel display, accendilo, aspetta che completi le operazioni indicate sullo schermo, poi spegi e rimuovila. Alla prossima accensione il display mostrerà quello che hai caricato.
+
+Se carichi i dati tramite adattatore apri il programma DGUS, importa o crea il tuo progetto, premi sull icona DGUS, si aprirà il Dwin PCKit clicca 'Select Directory'
